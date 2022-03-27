@@ -1,0 +1,30 @@
+{
+  "name": "react-next-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "12.1.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "eslint": "8.12.0",
+    "eslint-config-next": "12.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syail/react-next-app.git"
+  },
+  "author": "syail",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/syail/react-next-app/issues"
+  },
+  "homepage": "https://github.com/syail/react-next-app#readme"
+}
